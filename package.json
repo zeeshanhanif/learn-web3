@@ -1,0 +1,16 @@
+{
+  "name": "learn-web3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_web3_node.js",
+  "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
